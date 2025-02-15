@@ -66,7 +66,7 @@ const config = {
                 configFile: './tsconfig.json'
             })
         ],
-        // 因为使用了 TsconfigPathsPlugin 插件，所以这里就不需要再映射路径了
+        // 因为使用了 TsconfigPathsPlugin 插件，所以这里就不需要再映射路径了..
         // alias: {
         //     "@src": path.resolve('src'),
         //     "@public": path.resolve('public'),
